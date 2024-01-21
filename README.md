@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **chuksked@gmail.com**
 
-- 🌐 Visit my website [Hydrogen Technologies](https://hydrogentech.com.ng)
+<!-- - 🌐 Visit my website [Hydrogen Technologies](https://hydrogentech.com.ng) -->
 
 - ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
