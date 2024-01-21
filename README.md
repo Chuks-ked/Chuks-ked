@@ -57,7 +57,7 @@ Here are some ideas to get you started:
   <a href="https://www.instagram.com/chuks_ked/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="_._.adam._" height="30" width="40" /></a>
-  <a href="#!" target="blank"><img align="center"
+  <a href="https://wa.me/+2348144425853" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="adampithewan" height="30" width="40" /></a>
  <a href="https://x.com/Jerrychuks15" target="blank"><img align="center"
