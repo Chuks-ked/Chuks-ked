@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Chukwubuikem Ikedi</h1>
-<h3 align="center">Currently a student at the NAU, Nigeria🌟.</h3>
+<h3 align="center">I hold a Bachelor of Science degree in Computer Science from the prestigious University of Nnamdi Azikiwe, Nigeria🌟.</h3>
 
 <br>
 
