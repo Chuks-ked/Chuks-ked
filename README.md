@@ -81,7 +81,7 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chuks-ked&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=Chuks-ked"
     alt="Chuks-ked" /></p>
     
-<p><img width="55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuks-ked&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Chuks-ked" /></p>
+<p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuks-ked&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Chuks-ked" /></p>
       
 <p align="left"> <a href="https://x.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
