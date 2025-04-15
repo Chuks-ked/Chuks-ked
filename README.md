@@ -11,36 +11,20 @@
 - ⚡ Fun fact: ...
 -->
 <br/>
-<br/>
 Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apart from that, I also love building awesome backend projects and Problem-Solving ✌🌟.
 
+<br/>
+<br/>
 
-<h3>Talking about Personal Stuffs</h3>
+**Talking about Personal Stuffs:**
 
 - 🔭 I’m currently an Intern at Nowhere, still searching.
 - 🌱 I’m currently learning ReactNative.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything. Would love to answer them.✌
-- 📫 How to reach me **chuksked@gmail.com**
-<br>
 
-<h3>Languages and Tools</h3>
-- Linux Terminal
-- Python
-- Django
-- FastAPI
-- PostgreSql
-- Reactjs
-- Html
-- Css
-- Javascript
-
-<!-- <p align="right">
-    <h3>Profile Views :-</h3>
-    <img src="https://komarev.com/ghpvc/?username=Chuks-ked&label=Profile%20views&color=0e75b6&style=flat" alt="Chuks-ked" /> 
-</p> -->
+**Reach Me on:**
 <br/>
-<h3>Connect Me :</h3>
   <a href="https://www.linkedin.com/in/ikedi-chuks" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
     </a>
@@ -59,6 +43,25 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
 
 <br/>
 
+**Languages and Tools**
+- Linux Terminal
+- Python
+- Django
+- FastAPI
+- PostgreSql
+- Reactjs
+- Html
+- Css
+- Javascript
+
+<!-- <p align="right">
+    <h3>Profile Views :-</h3>
+    <img src="https://komarev.com/ghpvc/?username=Chuks-ked&label=Profile%20views&color=0e75b6&style=flat" alt="Chuks-ked" /> 
+</p> -->
+
+
+<br/>
+
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
@@ -69,7 +72,6 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
  ![Jeremiah's github stats](https://github-readme-stats.vercel.app/api?username=Chuks-ked&show_icons=true&hide_border=true)
 <br>
 
-<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Chuks-ked&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Chuks-ked" 
@@ -79,7 +81,7 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chuks-ked&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=Chuks-ked"
     alt="Chuks-ked" /></p>
     
-<p><img width="50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuks-ked&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Chuks-ked" /></p>
+<p><img width="55% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuks-ked&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Chuks-ked" /></p>
       
 <p align="left"> <a href="https://x.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
