@@ -1,4 +1,4 @@
-### Hello there 👋
+### Hello World 👋 It's [Jeremiah!](https://github.com/chuks-ked)
 
 <!--
 **Chuks-ked/Chuks-ked** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,9 +15,34 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Chukwubuikem Ikedi Jeremiah</h1>
-<h3 align="center">I hold a Bachelor of Science degree in Computer Science from the prestigious University of Nnamdi Azikiwe, Nigeria🌟.</h3>
 
+<h3 align="center">A Web Developer and a Python lover. Apart from that, I also love building awesome backend projects and Problem-Solving.❤✌🌟.</h3>
+
+
+**Talking about Personal Stuffs:**
+
+- 🔭 I’m currently an Intern at Nowhere, still searching.
+- 🌱 I’m currently learning ReactNative.
+- 👯 Part of Developer Community.
+- 💬 Ask me about anything. Would love to answer them.✌
+- 📫 How to reach me **chuksked@gmail.com**
 <br>
+
+<!--
+- ⚡ Fun fact :- Food and Music🎵 are the reasons to live. 
+-->
+
+**Languages and Tools:**
+- Linux Terminal
+- Python
+- Django
+- FastAPI
+- PostgreSql
+- Reactjs
+- Html
+- Css
+- Javascript
+
 
 <p align="right">
     <h3>Profile Views :-</h3>
@@ -27,15 +52,11 @@ Here are some ideas to get you started:
 <br>
 
 <p><img width="200px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Chuks-ked" /></p>
-<p>As a seasoned full-stack web developer with over 3 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p>
+<!-- <p>As a seasoned full-stack web developer with over 3 years of experience, I bring a passion for both technology and the great outdoors to my work. My drive to continuously learn and grow, combined with my love of helping others do the same, makes me a valuable asset to any project. I specialize in creating visually appealing and user-friendly websites, and I would be honored to bring my expertise to your next project.</p> -->
 
-- 🌱 I’m currently learning App Development and other programming languages
-
-- 📫 How to reach me **chuksked@gmail.com**
 
 <!-- - 🌐 Visit my website [Hydrogen Technologies](https://hydrogentech.com.ng) -->
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
 
 <br>
 
