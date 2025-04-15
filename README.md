@@ -12,9 +12,10 @@
 -->
 <br/>
 <br/>
-<br/>
+
 Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apart from that, I also love building awesome backend projects and Problem-Solving.❤✌🌟.
 
+<br/>
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently an Intern at Nowhere, still searching.
@@ -39,7 +40,6 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
     <h3>Profile Views :-</h3>
     <img src="https://komarev.com/ghpvc/?username=Chuks-ked&label=Profile%20views&color=0e75b6&style=flat" alt="Chuks-ked" /> 
 </p> -->
-<br/>
 <h3>Connect me :</h3>
   <a href="https://www.linkedin.com/in/ikedi-chuks" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
@@ -59,6 +59,7 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
 
 
 <br/>
+<br/><br/>
 <br/>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
