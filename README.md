@@ -10,6 +10,9 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br/>
+<br/>
+<br/>
 Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apart from that, I also love building awesome backend projects and Problem-Solving.❤✌🌟.
 
 **Talking about Personal Stuffs:**
@@ -36,7 +39,8 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
     <h3>Profile Views :-</h3>
     <img src="https://komarev.com/ghpvc/?username=Chuks-ked&label=Profile%20views&color=0e75b6&style=flat" alt="Chuks-ked" /> 
 </p> -->
-
+<br/>
+<h3>Connect me :</h3>
   <a href="https://www.linkedin.com/in/ikedi-chuks" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
     </a>
@@ -54,7 +58,8 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
      alt="adampithewan" height="30" width="40" /></a>
 
 
-<br>
+<br/>
+<br/>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
@@ -66,7 +71,7 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
  ![Jeremiah's github stats](https://github-readme-stats.vercel.app/api?username=Chuks-ked&show_icons=true&hide_border=true)
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=Chuks-ked&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="Chuks-ked" 
