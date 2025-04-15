@@ -12,11 +12,11 @@
 -->
 <br/>
 <br/>
-
-Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apart from that, I also love building awesome backend projects and Problem-Solving.❤✌🌟.
-
 <br/>
-**Talking about Personal Stuffs:**
+Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apart from that, I also love building awesome backend projects and Problem-Solving ✌🌟.
+
+
+<h3>Talking about Personal Stuffs</h3>
 
 - 🔭 I’m currently an Intern at Nowhere, still searching.
 - 🌱 I’m currently learning ReactNative.
@@ -25,7 +25,7 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
 - 📫 How to reach me **chuksked@gmail.com**
 <br>
 
-**Languages and Tools**
+<h3>Languages and Tools</h3>
 - Linux Terminal
 - Python
 - Django
@@ -40,7 +40,8 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
     <h3>Profile Views :-</h3>
     <img src="https://komarev.com/ghpvc/?username=Chuks-ked&label=Profile%20views&color=0e75b6&style=flat" alt="Chuks-ked" /> 
 </p> -->
-<h3>Connect me :</h3>
+<br/>
+<h3>Connect Me :</h3>
   <a href="https://www.linkedin.com/in/ikedi-chuks" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
     </a>
@@ -57,9 +58,6 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
      alt="adampithewan" height="30" width="40" /></a>
 
-
-<br/>
-<br/><br/>
 <br/>
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
@@ -81,8 +79,7 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chuks-ked&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=Chuks-ked"
     alt="Chuks-ked" /></p>
-
-<br>
+    
 <p><img width="50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuks-ked&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Chuks-ked" /></p>
       
 <p align="left"> <a href="https://x.com/" target="blank"><img
