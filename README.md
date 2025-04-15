@@ -12,7 +12,6 @@
 -->
 <br/>
 <br/>
-<br/>
 Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apart from that, I also love building awesome backend projects and Problem-Solving ✌🌟.
 
 
