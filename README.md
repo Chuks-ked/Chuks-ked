@@ -10,9 +10,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h1 align="center">Hi 👋, I'm Chukwubuikem Ikedi Jeremiah</h1>
-
-<h3 align="center">A Web Developer and a Python lover. Apart from that, I also love building awesome backend projects and Problem-Solving.❤✌🌟.</h3>
+Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apart from that, I also love building awesome backend projects and Problem-Solving.❤✌🌟.
 
 **Talking about Personal Stuffs:**
 
@@ -23,11 +21,7 @@
 - 📫 How to reach me **chuksked@gmail.com**
 <br>
 
-<!--
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live. 
--->
-
-**Languages and Tools:**
+**Languages and Tools**
 - Linux Terminal
 - Python
 - Django
@@ -38,29 +32,11 @@
 - Css
 - Javascript
 
-
-<p align="right">
+<!-- <p align="right">
     <h3>Profile Views :-</h3>
     <img src="https://komarev.com/ghpvc/?username=Chuks-ked&label=Profile%20views&color=0e75b6&style=flat" alt="Chuks-ked" /> 
-  </p>
+</p> -->
 
-<br>
-
-<!-- <p><img width="200px" align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="Chuks-ked" /></p> -->
-
-<!-- - 🌐 Visit my website [Hydrogen Technologies](https://hydrogentech.com.ng) -->
-
-<!--
-<br>
-### Spotify Playing 🎧
-
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR)
-<br>
--->
-
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
   <a href="https://www.linkedin.com/in/ikedi-chuks" target="blank">
       <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="adam pithewan" height="30" width="40" />
     </a>
@@ -73,10 +49,10 @@
   <a href="https://wa.me/+2348144425853" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
       alt="adampithewan" height="30" width="40" /></a>
- <a href="https://x.com/Jerrychuks15" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
+ <a href="https://x.com/Jerrychuks15" target="blank">
+ <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" 
+     alt="adampithewan" height="30" width="40" /></a>
+
 
 <br>
 
@@ -101,7 +77,7 @@
     alt="Chuks-ked" /></p>
 
 <br>
-<p><img width="100% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuks-ked&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Chuks-ked" /></p>
+<p><img width="50% align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuks-ked&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Chuks-ked" /></p>
       
 <p align="left"> <a href="https://x.com/" target="blank"><img
       src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
