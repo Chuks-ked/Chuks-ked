@@ -20,7 +20,7 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
 **Talking about Personal Stuffs:**
 
 - 🔭 I’m currently an Intern at Nowhere, still searching.
-- 🌱 I’m currently learning GO ⚡.
+- 🌱 I’m currently learning ReactNative ⚡.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything. Would love to answer them.✌
 
