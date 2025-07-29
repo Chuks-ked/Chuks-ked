@@ -70,7 +70,7 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
- ![Jeremiah's github stats](https://github-readme-stats.vercel.app/api?username=Chuks-ked&show_icons=true&hide_border=true)
+ <!-- ![Jeremiah's github stats](https://github-readme-stats.vercel.app/api?username=Chuks-ked&show_icons=true&hide_border=true) -->
 <br>
 
 <p><img align="center"
@@ -79,8 +79,8 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
     bg_color=#808080/>
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chuks-ked&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=Chuks-ked"
-    alt="Chuks-ked" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Chuks-ked&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&repo=Chuks-ked"
+    alt="Chuks-ked" /></p> -->
     
 <p><img  align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Chuks-ked&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="Chuks-ked" /></p>
       
