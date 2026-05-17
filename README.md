@@ -49,6 +49,10 @@ Hi, I'm Chukwubuikem Ikedi Jeremiah 🙌, a Web Developer and Python lover. Apar
 - Python
 - Django
 - FastAPI
+- Kotlin
+- Springboot
+- GO
+- Gin
 - PostgreSql
 - Reactjs
 - Html
