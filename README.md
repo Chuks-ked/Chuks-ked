@@ -19,7 +19,7 @@ As a seasoned full-stack web developer with over 4 years of experience, I bring 
 
 **Talking about Personal Stuff:**
 
-- 🌱 I’m currently learning App Development and other programming languages
+- 🌱 I’m currently learning App Development and other programming languages.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything. Would love to answer them.✌
 - 📫 How to reach me <a href="mailto:chuksked@gmail.com">chuksked@gmail.com</a>
